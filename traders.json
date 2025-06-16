@@ -1,0 +1,9 @@
+[
+  { "id": 1, "name": "Alex Trader", "pnl": 111.1 },
+  { "id": 2, "name": "Crypto King", "pnl": 92.1 },
+  { "id": 3, "name": "Future Flow", "pnl": 75.4 },
+  { "id": 4, "name": "Maria Signal", "pnl": 210.2 },
+  { "id": 5, "name": "Profit Hunter", "pnl": -15.8 },
+  { "id": 6, "name": "Scalper Pro", "pnl": 45.3 },
+  { "id": 7, "name": "New Trader", "pnl": 33.3 }
+]
